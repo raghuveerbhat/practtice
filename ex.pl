@@ -12,6 +12,6 @@ while( my $line = <$info>)  {
 	}
 }
 foreach my $i (0 .. $#array) {
-	print "$i: \nDCR=$array[$i]->[0]\nStatus=$array[$i]->[1]\nCreation=$array[$i]->[2]\nLast_Modified=$array[$i]->[3]\n";
+	print "$i: \nXXX=$array[$i]->[0]\nStatus=$array[$i]->[1]\nCreation=$array[$i]->[2]\nLast_Modified=$array[$i]->[3]\n";
 }
 close $info;
