@@ -1,2 +1,2 @@
 # practtice
-cpp, java, python
+cpp, python
