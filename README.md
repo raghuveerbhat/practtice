@@ -1,2 +1,2 @@
-#practice
-cpp,python-ds and algo
+# practice
+cpp,python - ds and algorithms
