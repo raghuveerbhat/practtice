@@ -1,2 +1,2 @@
-# practtice
-cpp, python
+#practice
+cpp,python-ds and algo
